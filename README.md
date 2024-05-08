@@ -5,9 +5,9 @@ It was developed for the 2023/24 study "In Rod we Trust - The evaluation of virt
 
 To get access to the original Unity scene (v.2019.1.11f1) and custom created assets' scripts, go to [RFT:Project_RFT](https://github.com/JudiJ/RFT/tree/main).
 
-Duplicated and reuploaded version of the Application_RFT repository, which showed problems after downloading the zipped files.
+Duplicated and reuploaded version of the [Application_RFT](https://github.com/JudiJ/Application_RFT) repository, which showed problems after downloading the zipped files.
 
-Download the zip-file in this project to install the full playable VR application with the Unity player.
+Download the zip-file in this project to install the full playable VR application.
 
 ## The Application
 “RFT2.exe” runs the program for a VR version of the RFT: A virtual rectangular frame and a rod, implied by an opaque cuboid with two dots at both ends, are presented in a dark room. 
