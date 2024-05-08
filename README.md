@@ -1,4 +1,4 @@
-# Application2_RFT
+# App_RFT
 This project contains the application files for a VR rod and frame test (RFT).  
 
 It was developed for the 2023/24 study "In Rod we Trust - The evaluation of virtual Rod and Frame Test as a cybersickness screening instrument" by J. Josupeit. 
