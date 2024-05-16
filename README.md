@@ -3,7 +3,7 @@ This project contains the application "RFT2.exe" files for the VR rod and frame 
 
 It was developed for the 2023/24 study "In Rod we Trust - The evaluation of virtual Rod and Frame Test as a cybersickness screening instrument" by J. Josupeit. 
 
-To get access to the original Unity scene (v.2019.1.11f1) and custom-created scripts, go to [RFT:Project_RFT](https://github.com/JudiJ/RFT/tree/main).
+To get access to the original Unity scene (v.2019.1.11f1) and custom-created scripts, go to [RFT_Project](https://github.com/JudiJ/RFT_Project)).
 
 In addition to downloading the zip folder, the requirements are Unity (v2019.1.11f1), Steam VR, and for interaction a HTC Vive controller. 
 
